@@ -4,16 +4,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Martin+kavindu!;" />
 </h1>
 
-<h3 align="center">A passionate Computer Programer from Nairobi  KENYA </h3>
+<h3 align="center">A passionate Computer Programmer from Nairobi  KENYA </h3>
 
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Sacco System in BC365**
+ 🔭 I’m currently working on **Sacco System in Dynamics 365 Business Central**
  
- 🌱 I’m currently learning **BC365, React native**
+ 🌱 I’m currently learning **Dynamics 365 Business Central, React native**
 
-💬 Ask me about **Node.js, React,PHP,Laravel,Codeigniter,Javascript... or anything [here](https://github.com/martinkavindu/martinkavindu/issues)**
+💬 Ask me about **Node.js, React,PHP,Laravel,Codeigniter,Dynamics 365 Business Central,Javascript... or anything [here](https://github.com/martinkavindu/martinkavindu/issues)**
 
 ⚡ Fun fact **The first computer "bug" was a real moth found inside a computer in 1947, giving birth to the term we still use today!**
 
