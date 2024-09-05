@@ -54,7 +54,7 @@
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=martinkavindu&theme=dark&hide_total_contributions=true" alt="GitHub Streak" style="display: inline-block;"/>
+    <img width="390" src="https://streak-stats.demolab.com?user=martinkavindu&theme=dark&hide_total_contributions=true&card_height=270" alt="GitHub Streak" style="display: inline-block;"/>
   </a>
  
   <a href="https://github.com/martinkavindu/github-readme-stats">
