@@ -54,8 +54,9 @@
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=martinkavindu" alt="GitHub Streak" style="display: inline-block;"/>
+    <img width="390" src="https://streak-stats.demolab.com?user=martinkavindu&theme=dark&hide_total_contributions=true" alt="GitHub Streak" style="display: inline-block;"/>
   </a>
+ 
   <a href="https://github.com/martinkavindu/github-readme-stats">
     <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkavindu&layout=compact" alt="Top Langs" style="display: inline-block;"/>
   </a>
