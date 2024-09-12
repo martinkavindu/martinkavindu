@@ -1,70 +1,29 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=martinkavindu.martinkavindu" />
+# 💫 About Me:
+## Hello🧑‍💻 Martin Kavindu here🙋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'M+MARTIN+KAVINDU!;" />
-</h1>
+🔭 Currently working as a Full Stack Developer.<br>🏫 Continuously learning and growing in Microsoft Dynamics, Backend, and Frontend Development.<br> 💻 You can explore my projects here: [My Portfolio](https://mutuku.netlify.app/)<br> 🤝 Looking to collaborate on exciting Web Development projects.<br>🌱 Actively working on React and Laravel projects.<br>💡 Passionate about exploring and mastering Full Stack Development.
 
-<h3 align="center">A passionate Computer Programmer from Nairobi  KENYA </h3>
 
-<br/>
-<div align="center">
- 
- 🔭 I’m currently working on **Sacco System in Dynamics 365 Business Central**
- 
- 🌱 I’m currently learning **Dynamics 365 Business Central, React native**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martinkavindu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fallenherro1) 
 
-💬 Ask me about **Node.js, React,PHP,Laravel,Codeigniter,Dynamics 365 Business Central,Javascript... or anything [here](https://github.com/martinkavindu/martinkavindu/issues)**
+# 💻 Tech Stack:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23ED8B00.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/php-%23000000.svg?style=for-the-badge&logo=php&logoColor=#00C7B7) ![laravel](https://img.shields.io/badge/laravel-%23000000.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DSA](https://img.shields.io/badge/DSA-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-⚡ Fun fact **The first computer "bug" was a real moth found inside a computer in 1947, giving birth to the term we still use today!**
+# 📊 GitHub Stats:
 
- </div>
- <div align="center"> 
-  <a href="mailto:martinmutuku1998@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/martinkavindu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://mutuku.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a>
-   
-</div>
-
- <hr/>
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
- <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,laravel,javascript,express,php,mongodb,codeigniter,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/martinkavindu/martinkavindu/output/github-contribution-grid-snake.svg" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinkavindu&theme=radical&hide_border=false" alt="Streak Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkavindu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
+  </div>
   
-  <br/><br/><br/>
-</div>
 
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=martinkavindu&theme=dark&hide_total_contributions=true&card_height=270" alt="GitHub Streak" style="display: inline-block;"/>
-  </a>
- 
-  <a href="https://github.com/martinkavindu/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinkavindu&layout=compact" alt="Top Langs" style="display: inline-block;"/>
-  </a>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+[![](https://visitcount.itsvg.in/api?id=martinkavindu&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 
-
-
-
-
+  
